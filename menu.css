@@ -1,0 +1,23 @@
+#menu {
+    list-style: none;
+    padding: 5px;
+    z-index: 3;
+    margin: 1px;
+}
+#menu li{
+    position: relative;
+    padding: 5px;
+    float: left;
+    z-index: 3;
+    top: 60px;
+    left: 490;
+}
+#menu a {
+    text-decoration: none;
+    z-index: 3;
+}
+#menu img {
+    border: 0;
+    z-index: 3;
+    vertical-align: top;
+}
